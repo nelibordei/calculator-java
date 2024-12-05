@@ -13,6 +13,7 @@ public class Calculator {
         static final char DIVISION_SYMBOL = '/';
 
         private Operations() {
+            
         }
 
         public static String ToString() {
